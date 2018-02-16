@@ -1,1 +1,2 @@
-You've completed your first Katacoda scenario!
+
+已完成实验，去浪一下吧！
